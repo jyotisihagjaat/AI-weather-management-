@@ -14,6 +14,10 @@ The PowerPoint presentation and demonstration video explain the project concept 
 ## Technologies Used
 - Lovable for prototype development
 
+## Project Demo Video
+
+[Watch the demonstration on YouTube](https://youtu.be/naU2wDb5-1I)
+
 
 ## My Contribution
 [I developed this project prototype using Lovable AI by writing prompts and refining them to shape the idea into a working prototype. I independently created the PowerPoint presentation, prepared the project demonstration video, and recorded the voice-over myself. I also worked on presenting the project's concept, features, and proposed solution clearly.]
